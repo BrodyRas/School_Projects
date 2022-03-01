@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.7.2 (3)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/AndroidStudio/FamilyMap/jars/sqlite-jdbc-3.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/AndroidStudio/FamilyMap/jars/sqlite-jdbc-3.7.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
