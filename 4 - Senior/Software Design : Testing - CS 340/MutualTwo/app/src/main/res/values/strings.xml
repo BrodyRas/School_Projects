@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MutualTwo</string>
+    <string name="user_name">User Name</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_label">Login</string>
+    <string name="login_screen_title">Welcome to Muutual!</string>
+    <string name="register_button">Click Here!</string>
+    <string name="register_prompt">Don\'t have an account?</string>
+    <string name="cancel_register_button">Return to LogIn</string>
+    <string name="cancel_register_prompt">Changed your mind?</string>
+    <string name="register_button_label">REGISTER</string>
+    <string name="register_title">Enter your info here!</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="photo_prompt">Upload a photo from your gallery</string>
+    <string name="feed_title">Welcome to the feed!</string>
+    <string name="post_body">Bro please, let me hit your Juul, please bro, I need a fix bro. I need to get nic\'d up. Bro, I\'ll take it in the bathroom, I won\'t get caught bro.</string>
+    <string name="post_name">(Noel Miller)</string>
+    <string name="post_username">\@YourBoi420</string>
+    <string name="post_says">\ says:</string>
+
+    <string name="user_title">Welcome to the UserActivity!</string>
+    <string name="reg_picture_hint">PictureURL</string>
+    <string name="reg_picture_button">Upload</string>
+    <string name="feed_post_hint">Write your thoughts here</string>
+    <string name="feed_header">Here\'s you feed, chief!</string>
+    <string name="feed_post_button">POST</string>
+    <string name="user_change_picture">Change profile picture?</string>
+    <string name="feed_attach_button">Attach?</string>
+    <string name="feed_log_out">Log Out?</string>
+    <string name="feed_profile_button">Your Profile</string>
+    <string name="hash_title">All posts that contain:</string>
+    <string name="hash_filler">#HASHTAG</string>
+</resources>

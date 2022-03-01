@@ -1,2 +1,2 @@
 # School_Projects
-Here it is!
+Here are the projects I worked on through my college career!

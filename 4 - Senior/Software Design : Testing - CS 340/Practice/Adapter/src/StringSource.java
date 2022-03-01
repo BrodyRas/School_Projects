@@ -1,0 +1,3 @@
+interface StringSource {
+    String next();
+}
